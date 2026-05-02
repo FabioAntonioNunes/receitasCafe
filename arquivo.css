@@ -1,0 +1,39 @@
+h1{
+    color: #9a5833;
+    display: inline-block;
+    background-color: #e6b68b;
+}
+#texto1{
+    font-weight: bold;
+    font-size: 20 px;
+    border:10px solid brown;
+}
+body{
+    background-size: 100px 100px;
+    color: black;
+    font-size: 30px;
+    background-color:blanchedalmond;
+    font-family: 'Franklin Gothic Medium',
+    'Arial Narrow', Arial, sans-serif ;
+    padding: 10px 20px;
+    text-align: justify;
+    border: 40px solid #33CCFF;
+    border-style: dotted;
+    
+}
+h2{
+    background-color: #33CCFF;
+    display: inline-block;
+    font-size: 50px;
+}
+.title{
+    font-size: 50px;
+    background-color: #e6b68b;
+    display: inline-block ;
+}
+.imgs{
+    text-align: center;
+}
+a{
+    color: red;
+}
