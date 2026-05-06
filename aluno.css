@@ -1,35 +1,35 @@
 .Comidas{
-    border: 10px solid #1a759f;
+    border: 10px solid #0071c7;
     width: 400px;
     padding: 24px 24px;
-    background-color: #52b69a;
+    background-color: #7dc25e;
 }
 body{
     font-size: 40px;
     font-family: 'Franklin Gothic Medium',
     'Arial Narrow', Arial, sans-serif ;
-    background-color: #b5e48c;
+    background-color: #00c0ff;
     color: white;
-    border-color: #52b69a;
+    border-color: #005400;
     border-style: dotted;
     border-width: 50px;
     padding: 20px 200px;
 }
 h1{
     background-color: white;
-    color: #99d98c;
+    color: #7dc25e;
     display: inline-block;
     padding: 0px 8px;
 }
 h2{
     background-color: white;
-    color: #34a0a4;
+    color: #00c0ff;
     display: inline-block;
     text-align: center;
     padding: 0px 8px;
 }
 a{
-    color: #1a759f;
+    color: #005400;
     padding: 0px 8px;
 }
 
